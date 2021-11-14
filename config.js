@@ -1,4 +1,4 @@
-const nameGirl = '...';
+const nameGirl = 'Trang';
 const giftUrl = 'https://www.facebook.com/ht205';
 const eventName = 'Tâm thư gửi';
 const titleCard = 'Lời nhắn';
